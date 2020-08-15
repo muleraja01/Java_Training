@@ -1,0 +1,14 @@
+package basicSyntax;
+
+/**
+ * @author Raja
+ *
+ */
+public class sampleStrings {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
