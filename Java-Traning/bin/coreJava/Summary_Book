@@ -70,7 +70,36 @@ Java IO(Input and Output)Operations
 
 Java -Build in Methods:
 
-Examples: Strings(.equals(), .round()
+Examples: Strings(.equals(), .round(), 
+
+Java -USer Defined Methods;
+public void method(){
+}
+pubic boolean method(){
+}
+'-----------------------------------------------------------------
+
+Exceptional handling
+try{
+
+}catch(){
+}
+
+'---------------------------------------------------------------------------
+
+***************************Java OOPS*************************************
+
+A)Inheritance: Prarent Class/Super Class, Base Page
+1. inheritancing class members from one class into another class
+2. use extends keyword
+
+
+B)Polymorphism
+existion of object behaiour in many forms
+1)Method Overloading-if 2 or more methods having same name in same classs with different types of arguments
+2)Method Overriding:if 2 methods that available in same parent class and child class.
+
+
 		
 		
 	
