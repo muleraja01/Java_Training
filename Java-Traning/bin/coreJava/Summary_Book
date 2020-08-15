@@ -99,6 +99,13 @@ existion of object behaiour in many forms
 1)Method Overloading-if 2 or more methods having same name in same classs with different types of arguments
 2)Method Overriding:if 2 methods that available in same parent class and child class.
 
+C)Abstraction:
+
+process of hiding implementing details and showing functionality to the users
+
+1)Concreate methods-->
+2)abstract methods-->
+
 
 		
 		
