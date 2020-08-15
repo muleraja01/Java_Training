@@ -1,0 +1,12 @@
+package coreJava;
+
+public class hashSetexample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Hashset, LinkedHasSet Implement set Interface
+		//Doesnt accept duplicates,
+		
+	}
+
+}

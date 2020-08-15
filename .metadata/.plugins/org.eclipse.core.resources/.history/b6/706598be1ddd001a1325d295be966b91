@@ -1,0 +1,22 @@
+package coreJava;
+
+import java.util.ArrayList;
+
+public class arrayListexample {
+	public static void main(String[] args) {
+		ArrayList<String> a=new ArrayList<String>();
+		a.add("Raja");
+		a.add("Mrunal");
+		a.add("Mrunal");
+		System.out.println(a);
+		a.remove(1);
+		System.out.println(a);
+		a.remove("Raja");
+		System.out.println(a);
+		
+		
+		
+		
+	}
+
+}

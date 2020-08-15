@@ -1,0 +1,17 @@
+package coreJava;
+
+import java.util.HashMap;
+
+public class hashMapexample {
+	public static void main(String[] args) {
+		
+		HashMap<Integer, String> hm=new HashMap<Integer, String>();
+		hm.put(0, "Raja");
+		hm.put(1, "AutomationTester");
+		hm.put(2, "Pune");
+		hm.put(3, "UFT");
+		hm.put(4, "Selenium");
+		System.out.println(hm.get("2"));
+	}
+
+}
