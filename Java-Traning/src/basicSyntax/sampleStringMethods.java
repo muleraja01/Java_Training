@@ -22,7 +22,7 @@ public class sampleStringMethods {
 		System.out.println(Character.isAlphabetic(d));
 		System.out.println(Character.isAlphabetic(e));
 		System.out.println(Character.isAlphabetic(f));
-		
+		System.out.println("Completed");
 		
 		
 		
