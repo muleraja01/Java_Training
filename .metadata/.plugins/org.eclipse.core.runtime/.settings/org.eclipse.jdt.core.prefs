@@ -1,4 +1,10 @@
 eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk1.8.0_144/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/HP/.p2/pool/plugins/org.junit_4.13.0.v20200204-1500.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/HP/.m2/repository
+org.eclipse.jdt.core.classpathVariable.TESTNG_HOME=C\:/Users/HP/eclipse/java-2020-06/eclipse/configuration/org.eclipse.osgi/453/0/.cp
 org.eclipse.jdt.core.codeComplete.argumentPrefixes=
 org.eclipse.jdt.core.codeComplete.argumentSuffixes=
 org.eclipse.jdt.core.codeComplete.fieldPrefixes=
@@ -16,3 +22,4 @@ org.eclipse.jdt.core.compiler.compliance=1.8
 org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
 org.eclipse.jdt.core.compiler.source=1.8
+org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50
